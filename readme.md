@@ -1,6 +1,9 @@
 <br/>
+<div align="center">
+    <img width="200" src="http://cornerstone.sebdybowski.com/cornerstone_256_y.png" style="max-width:100%;">
+</div>
+<br/>
 
-> <br/>![alt text](http://cornerstone.sebdybowski.com/cornerstone_256_y.png "cornerstone logo") <br/><br/>
 > "The stone has been proved and found to be 'fair work and square work' and fit to be laid as the foundation stone of this Holy Temple. "
 > <br/><br/> ~ Freemason ceremony, The Cork Examiner of 13th January 1865.
 
