@@ -1,4 +1,4 @@
-<img src="http://cornerstone.sebdybowski.com/cornerstone_v3.png" width="256px" alt="cornerstone-logo" />
+<img src="http://cornerstone.sebdybowski.com/cornerstone_v4.png" width="256px" alt="cornerstone-logo" />
 
 # Cornerstone CSS
 Ascetic CSS framework for your ui.
