@@ -9,7 +9,9 @@
 Ascetic CSS framework for your ui.
 
 ## Installation
-`npm i -S cornerstone-css`
+```shell script
+npm i -S cornerstone-css
+```
 
 ## Usage
 Supported style systems are:
