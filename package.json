@@ -12,8 +12,7 @@
   },
   "keywords": [
     "css",
-    "framework\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[",
-    "\u001b[C\u001b[D\u001b[C\u001b[Dfr\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[",
+    "framework",
     "minimalist"
   ],
   "author": "Seb Dybowski <dybowski@int.pl>",
@@ -21,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/sebdybowski/cornerstone/issues"
   },
-  "homepage": "https://github.com/sebdybowski/cornerstone#readme"
+  "homepage": "https://github.com/sebdybowski/cornerstone#readme",
+  "devDependencies": {
+    "rollup": "^2.26.9"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
 }
