@@ -1,6 +1,4 @@
-<div style="text-align:center; margin: 0 auto;">
-    <img src="http://cornerstone.sebdybowski.com/cornerstone.png" width="256px" alt="cornerstone-logo" />
-</div>
+<img src="http://cornerstone.sebdybowski.com/cornerstone.png" width="256px" alt="cornerstone-logo" />
 
 # Cornerstone CSS
 Ascetic CSS framework for your ui.
