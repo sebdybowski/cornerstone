@@ -1,6 +1,6 @@
 {
   "name": "cornerstone-css",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Ascetic CSS framework for your ui.",
   "main": "index.js",
   "scripts": {
