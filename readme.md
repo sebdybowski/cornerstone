@@ -1,5 +1,5 @@
-<img src="http://cornerstone.sebdybowski.com/cornerstone_v4.png" width="256px" alt="cornerstone-logo" />
 <br/>
+<img src="http://cornerstone.sebdybowski.com/cornerstone_v4.png" width="256px" alt="cornerstone-logo" />
 <br/>
 
 > "The stone has been proved and found to be 'fair work and square work' and fit to be laid as the foundation stone of this Holy Temple. "
