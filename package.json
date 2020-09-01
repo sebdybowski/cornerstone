@@ -1,0 +1,25 @@
+{
+  "name": "cornerstone",
+  "version": "0.0.1",
+  "description": "Ascetic CSS framework for your ui.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebdybowski/cornerstone.git"
+  },
+  "keywords": [
+    "css",
+    "framework\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[",
+    "\u001b[C\u001b[D\u001b[C\u001b[Dfr\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[",
+    "minimalist"
+  ],
+  "author": "Seb Dybowski <dybowski@int.pl>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/sebdybowski/cornerstone/issues"
+  },
+  "homepage": "https://github.com/sebdybowski/cornerstone#readme"
+}
