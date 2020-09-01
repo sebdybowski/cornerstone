@@ -1,4 +1,10 @@
 <img src="http://cornerstone.sebdybowski.com/cornerstone_v4.png" width="256px" alt="cornerstone-logo" />
+<br/>
+<br/>
+
+> "The stone has been proved and found to be 'fair work and square work' and fit to be laid as the foundation stone of this Holy Temple. "
+
+> ~ Freemason ceremony, The Cork Examiner of 13th January 1865.
 
 # Cornerstone CSS
 Ascetic CSS framework for your ui.
